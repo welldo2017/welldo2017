@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm welldo2017  👋
 
 <!--
 **welldo2017/welldo2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left"> I'm welldo2017  👋 </h1>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 😄 I’m 🚀 bigdata devlover 🚀
