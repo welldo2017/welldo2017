@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left"> I'm welldo2017  👋 </h1>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 😄 I’m 🚀 bigdata devlover 🚀
+- 🔭 I’m currently working on chinamobile-cmii
+- 🌱 I’m currently learning 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | scala
+- 🛢 &nbsp; MySQL | HDFS | kudu 
+- 🔧 &nbsp; hadoop | hive | spark | flink | ES | kafka | hbase | sqoop | flume | kylin
+
 ![welldo2017's github stats](https://github-readme-stats.vercel.app/api?username=welldo2017&hide=["issues"]&show_icons=true)
