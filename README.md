@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 😄 I’m 🚀 bigdata devlover 🚀
-- 🔭 I’m currently working on chinamobile-cmii
+- 🔭 I’m currently working on cmii
 - 🌱 I’m currently learning 
 
 <h3>🛠 Tech Stack</h3>
