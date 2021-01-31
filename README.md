@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | scala
-- 🛢 &nbsp; MySQL | HDFS | kudu 
-- 🔧 &nbsp; hadoop | hive | spark | flink | ES | kafka | hbase | sqoop | flume | kylin
+- 🛢 &nbsp; MySQL | HDFS | kudu | HBase 
+- 🔧 &nbsp; hadoop | hive | spark | flink | ES | kafka | sqoop | flume | kylin
 
 ![welldo2017's github stats](https://github-readme-stats.vercel.app/api?username=welldo2017&hide=["issues"]&show_icons=true)
