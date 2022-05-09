@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Java | scala
 - 🛢 &nbsp; MySQL | HDFS | kudu | HBase 
-- 🔧 &nbsp; hadoop | hive | spark | flink | ES | kafka | sqoop | flume | kylin
+- 🔧 &nbsp; hadoop | hive | spark | flink | ES | kafka | flume | kylin
 
 ![welldo2017's github stats](https://github-readme-stats.vercel.app/api?username=welldo2017&hide=["issues"]&show_icons=true)
